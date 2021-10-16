@@ -131,3 +131,46 @@ eclipse基本概述：
 原文：https://zhuanlan.zhihu.com/p/146333721
 
 
+快捷键：
+
+Ctrl + 鼠标左键（类、方法、属性的变量名词）：定位跟踪某变量声明或定义的位置
+
+Ctrl + S：保存当前文件
+
+Ctrl + X：剪切
+
+Ctrl + C：复制
+
+Ctrl + V：粘贴
+
+Ctrl + D：删除当前行
+
+Ctrl + F：查找/替换（当前编辑窗口）
+
+Ctrl + H：全局搜索
+
+Ctrl + /：注释当前行或多行代码
+
+Ctrl + Shift + C：注释当前行或多行代码
+
+Ctrl + Shift + F：格式化当前代码
+
+Ctrl + Shift + O：缺少的Import语句被加入，多余的Import语句被删除（先把光标定位到需导入包的类名上）
+
+Ctrl + Shift + S：保存所有文件
+
+Ctrl + Shift + X：把当前选中的文本全部变为大写
+
+Ctrl + Shift + Y：把当前选中的文本全部变为小写
+
+Alt + /：代码智能提示
+
+Alt + Shift + R：重命名（包括文件名、类名、方法名、变量名等等，非常好用）
+
+Alt + Shift + J：生成类或方法的注释
+
+Alt + Shift + S：打开Source窗口（生成get、set方法，实现、覆盖接口或类的方法，很常用）
+
+Alt + Shift + D, J：如果有main方法入口，则以Debug方式执行代码
+
+Alt + Shift + X, J：如果有main方法入口，则以Run方式执行代码
